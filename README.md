@@ -18,10 +18,12 @@ This project aims to involve object-oriented concepts to represent different asp
 
 This project introduces the concept of chance event tiles that players land on during the game. These tiles trigger different events that can either help or hinder a player's progress. Four types of chance events are implemented:
 
-1. Gambit: Guess a number, and if correct, your boat advances significantly.
-2. Cannon: Roll a dice to move the opponent's boat backward.
-3. Vortex: Your boat gets stuck temporarily, causing you to miss a turn.
-4. Lightning Zap: Swap positions with your opponent's boat.
+| Event             | Description                                                       |
+|-------------------|-------------------------------------------------------------------|
+| **Gambit**        | Guess a number, and if correct, your boat advances significantly. |
+| **Cannon**        | Roll a dice to move the opponent's boat backward.                 |
+| **Vortex**        | Your boat gets stuck temporarily, causing you to miss a turn.     |
+| **Lightning Zap** | Swap positions with your opponent's boat.                       |
 
 
 
