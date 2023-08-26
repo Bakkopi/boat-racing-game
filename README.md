@@ -16,7 +16,9 @@ This project aims to involve object-oriented concepts to represent different asp
 
 ### Chance Event Tiles
 
-This project introduces the concept of chance event tiles that players land on during the game. These tiles trigger different events that can either help or hinder a player's progress. Four types of chance events are implemented:
+This project introduces the concept of chance event tiles that players land on during the game. These tiles trigger different events that can either help or hinder a player's progress. 
+
+Four types of chance events are implemented:
 
 | Event             | Description                                                       |
 |-------------------|-------------------------------------------------------------------|
