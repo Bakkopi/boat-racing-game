@@ -6,7 +6,7 @@ Welcome to the Java Boat Racing Game! This project simulates an exciting boat ra
 This project aims to involve object-oriented concepts to represent different aspects of the game, such as players, tiles, dice, and chance events. The game involves strategy, luck, and decision-making as players navigate the track filled with currents, traps, and chance tiles.
 
 ## Features
-
+#### Basic Features
 - Simulates a boat racing game with turns, challenges, and strategic choices.
 - Incorporates special chance event tiles that introduce an element of unpredictability.
 - Supports two-player gameplay, allowing friendly competition and fun interactions.
@@ -14,11 +14,8 @@ This project aims to involve object-oriented concepts to represent different asp
 - Provides a leaderboard feature to track top players based on their performance.
 
 
-## Chance Event Tiles
-
-This project introduces the concept of chance event tiles that players land on during the game. These tiles trigger different events that can either help or hinder a player's progress. 
-
-Four types of chance events are implemented:
+#### Chance Event Tiles
+These tiles trigger different events that can either help or hinder a player's progress. 
 
 | Event             | Description                                                       |
 |-------------------|-------------------------------------------------------------------|
@@ -29,7 +26,7 @@ Four types of chance events are implemented:
 
 
 
-## Example
+## Examples
 #### Main Menu
 ``` plaintext
               |    |    |
