@@ -2,7 +2,6 @@
 
 Welcome to the Java Boat Racing Game! This project simulates an exciting boat racing game where players compete to reach the finish line first while navigating through various challenges and chance events on the track.
 
-## Introduction
 This project aims to involve object-oriented concepts to represent different aspects of the game, such as players, tiles, dice, and chance events. The game involves strategy, luck, and decision-making as players navigate the track filled with currents, traps, and chance tiles.
 
 ## Features
